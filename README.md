@@ -2,6 +2,8 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/ygordhora/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/ygordhora/github-readme-stats)
+
 <h2><B>Curso</B></h2>
 <h3>Engenharia de software - Unifil</h3>
 
